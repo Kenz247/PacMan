@@ -23,7 +23,7 @@ public class Game extends JPanel implements ActionListener, KeyListener{
 
 
 
-        
+
         timer.start(); //Starts the timer
     }
     public void paint(Graphics g){
