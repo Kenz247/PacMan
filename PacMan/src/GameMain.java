@@ -1,6 +1,7 @@
 /**
  * Created by wongk8 on 9/13/2016.
- */import javax.swing.*;
+ */
+import javax.swing.*;
 
 public class GameMain {
     public static void main(String[] args){
